@@ -23,7 +23,7 @@ Ele permite iniciar, pausar e acompanhar o tempo de foco de maneira simples e vi
 ## ⚙️ Como Executar o Projeto
 
 ### 1️⃣ Clone o repositório:
-git clone https://github.com/seu-usuario/fokus-app.git
+git clone https://github.com/Gustasilvadev/Projeto-Fokus.git
 
 2️⃣ Instale as dependências:
 npm install
